@@ -35,7 +35,7 @@ body {
 }
 
 /* 设置容器的最大宽度、背景、阴影等 */
-.container {
+.containerResume {
     /* 最大宽度 */
     max-width: 700px;
     /* 背景色 */
@@ -49,7 +49,7 @@ body {
     /* 内边距 */
     padding: 40px;
     /* 顶部边距 */
-    margin-top: 50px;
+    margin-top: 0px;
 }
 
 /* 头部样式 */
