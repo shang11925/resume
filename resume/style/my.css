@@ -1,0 +1,8 @@
+a {
+    color: rgb(96, 96, 237);
+    text-decoration: none; /* 去除链接的下划线 */
+}
+
+a:hover {
+    color: rgb(199, 70, 70);
+}
